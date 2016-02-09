@@ -1,2 +1,17 @@
 
 Test conduit on shelled out process
+
+http://chrisdone.com/posts/shell-conduit
+
+
+https://hackage.haskell.org/package/shell-conduit-4.5.2/docs/Data-Conduit-Shell-PATH.html
+
+https://hackage.haskell.org/package/shell-conduit-4.5.2/docs/src/Data-Conduit-Shell-Process.html#run
+
+https://ghc.haskell.org/trac/ghc/ticket/10599
+
+http://hackage.haskell.org/package/conduit-extra
+
+http://hackage.haskell.org/package/process-1.0.1.1/docs/System-Process.html#v%3AcreateProcess
+
+https://hackage.haskell.org/package/unix-2.7.1.0/docs/System-Posix-IO.html
